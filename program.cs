@@ -7,3 +7,4 @@ class Program
         Console.WriteLine("Hej Gentiana, Projektet funkar");
     }
 }
+testar igen 
